@@ -23,8 +23,12 @@ The frequency of oscillation is given by fo   = 1/2πRC
 <img width="417" height="324" alt="image" src="https://github.com/user-attachments/assets/53ef7b91-7bd4-4e06-b98c-d80970261018" />
 
 ## TABULATION:
+<img width="514" height="1280" alt="image" src="https://github.com/user-attachments/assets/2c6d6c7e-89da-47f2-8ab0-271e8eafb0c6" />
+
 
 ## GRAPH:
+
+<img width="1280" height="1157" alt="image" src="https://github.com/user-attachments/assets/c224d21e-58e3-45cc-b03d-e25816388a37" />
 
 ## CIRCUIT DIAGRAM:
 ## WIEN BRIDGE OSCILLATOR
@@ -35,6 +39,7 @@ The frequency of oscillation is given by fo   = 1/2πRC
 
 ## TABULATION:
 
+<img width="1280" height="611" alt="image" src="https://github.com/user-attachments/assets/f7710d31-d3be-4854-a7bd-0dff42fa2fa8" />
 ## DESIGN:
 ## RC PHASE SHIFT OSCILLATOR
     		fo   = 1  /  6 (2RC)
